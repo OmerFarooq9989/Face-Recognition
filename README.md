@@ -1,7 +1,7 @@
 # Face-Recognition
 Facial Emotion Recognition using Machine Learning. 
 
-To run the program we first have to create a virtual environment.
+To run the program we first have to create a virtual environment.</br>
 The code runs on a python 3.6 environment so we have to run the following commands before staarting the execution.
  py -3.6 -m venv virt
  pip install scikit-learn==1.2.1
